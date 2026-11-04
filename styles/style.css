@@ -77,7 +77,6 @@ ol {
   gap: 40px;
 }
 
-/* Шаг 8: относительное позиционирование для контейнера списка карточек */
 .content__list-container {
   height: 298px;
   overflow-y: auto;
@@ -95,7 +94,6 @@ ol {
   height: 100%;
 }
 
-/* Шаг 8: относительное позиционирование для контейнера видео */
 .result__video-container {
   width: 711px;
   height: 386px;
